@@ -1,0 +1,18 @@
+{
+  "name": "ab7",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "jeet": "^7.2.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
